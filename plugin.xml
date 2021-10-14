@@ -97,5 +97,7 @@
             <string>This app would like to scan for beacons while it is in use.</string>
         </config-file>
         
+        
+        
     </platform>
 </plugin>
